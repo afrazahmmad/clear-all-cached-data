@@ -18,7 +18,7 @@ class ClearAllCachedData extends Command
      *
      * @var string
      */
-    protected $description = 'Clear all cached data ';
+    protected $description = 'Clear all cached data';
 
     /**
      * Create a new command instance.
