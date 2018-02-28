@@ -3,11 +3,10 @@
     "description": "Clear all cached data i.e. views, config, routes etc",
     "keywords": [
         "afrazahmad",
-        "clear",
-        "cached data",
         "laravel-clear-all-cached-data"
     ],
     "homepage": "https://github.com/afrazahmmad/clear-all-cached-data",
+    "license": "MIT",
     "authors": [
         {
             "name": "Afraz Ahmad",
