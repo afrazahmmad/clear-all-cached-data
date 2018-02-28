@@ -7,7 +7,6 @@
             "email": "afrazahmad101.ca@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": "^7.0"
     },
