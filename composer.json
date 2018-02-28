@@ -1,0 +1,20 @@
+{
+    "name": "afrazahmad/clearallcacheddata",
+    "description": "Clear all cached data i.e. views, config , routes etc.",
+    "authors": [
+        {
+            "name": "Afraz Ahmad",
+            "email": "afrazahmad101.ca@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "AfrazAhmad\\ClearAllCachedData\\": "packages/afrazahmad/clearallcacheddata/src"
+        }
+    },
+}
