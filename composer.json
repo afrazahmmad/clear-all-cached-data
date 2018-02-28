@@ -14,7 +14,14 @@
     "autoload": {
         "psr-4": {
             "App\\": "app/",
-            "AfrazAhmad\\ClearAllCachedData\\": "packages/afrazahmad/clearallcacheddata/src"
+            "AfrazAhmad\\ClearAllCachedData\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "AfrazAhmad\\ClearAllCachedData\\ClearAllCachedDataProvider"
+            ],
         }
     },
 }
