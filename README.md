@@ -3,7 +3,7 @@ Laravel 5 Package to clear all cached data in single command. e.g. cache, views,
 ## Install through composer
 
 ``` bash
-composer require afrazahmad/clearallcacheddata
+composer require afrazahmad/clear-cached-data
 ```
 
 ## Usage
