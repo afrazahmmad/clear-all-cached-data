@@ -41,6 +41,6 @@ class ClearAllCachedData extends Command
         $this->call('view:clear');
         $this->call('route:clear');
         $this->call('clear-compiled');
-        $this->call('config:cache');
+        $this->call('config:clear');
     }
 }
